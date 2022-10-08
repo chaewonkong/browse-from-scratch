@@ -12,7 +12,6 @@ Inspired by [moon](https://github.com/ZeroX-DG/moon) and [robinson](https://gith
 
 - [ ] Learn Rust
 - [ ] Reference Code Analysis: [robinson](https://github.com/mbrubeck/robinson), [moon](https://github.com/ZeroX-DG/moon)
-- [ ]
 
 ## Installation and Run
 
