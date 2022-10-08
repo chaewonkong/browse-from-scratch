@@ -6,18 +6,18 @@ Project for building my own simple browser.
 Browser that parses URL, get assets, renderes the result.
 Uses Rust.
 
-Inspired by ![moon](https://github.com/ZeroX-DG/moon) and ![robinson](https://github.com/mbrubeck/robinson).
+Inspired by [moon](https://github.com/ZeroX-DG/moon) and [robinson](https://github.com/mbrubeck/robinson).
 
 ## Kick-off
 
 - [ ] Learn Rust
-- [ ] Reference Code Analysis: ![robinson](https://github.com/mbrubeck/robinson), ![moon](https://github.com/ZeroX-DG/moon)
+- [ ] Reference Code Analysis: [robinson](https://github.com/mbrubeck/robinson), [moon](https://github.com/ZeroX-DG/moon)
 - [ ]
 
 ## Installation and Run
 
 ```shell
-cargo run
+$ cargo run
 ```
 
 ## Why
